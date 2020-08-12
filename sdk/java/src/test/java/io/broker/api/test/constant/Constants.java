@@ -3,11 +3,11 @@ package io.broker.api.test.constant;
 public class Constants {
 
     // FIXME: change to a valid key and secret for test
-    public final static String ACCESS_KEY = "";
-    public final static String SECRET_KEY = "";
+    public final static String ACCESS_KEY = "aIt0Z90L8xP05kfNfUHcZwzaPvnCsiDRTaUfhWK4wHYpcOhN6kGLgu8rQT9DnRQu";
+    public final static String SECRET_KEY = "55ZrUph4kiuGEJxBDqU8AtIj0dSbyDvU3TKQI8q9RXeDQ3BWMrVijrJjRiU9Sb6R";
 
     // FIXME: please change to your valid api domain for test, for example: bhop.cloud
-    public static final String BASE_DOMAIN = "";
+    public static final String BASE_DOMAIN = "xmx.com";
 
     // REST api url format: https://api.BASE_DOMAIN
     // for example: https://api.bhop.cloud

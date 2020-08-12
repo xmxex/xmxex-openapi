@@ -7,7 +7,7 @@ import lombok.Singular;
 /**
  * @ProjectName:
  * @Package:
- * @Author: yuehao  <hao.yue@xmxtest.com>
+ * @Author: yuehao  <hao.yue@xmx.com>
  * @CreateDate: 2020-06-04 11:10
  * @Copyright（C）: 2018 BHEX Inc. All rights reserved.
  */
